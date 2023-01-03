@@ -1,0 +1,42 @@
+C:\Users\ahmet\source\repos\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.exe.config
+C:\Users\ahmet\source\repos\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.exe
+C:\Users\ahmet\source\repos\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.pdb
+C:\Users\ahmet\source\repos\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Form1.resources
+C:\Users\ahmet\source\repos\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Properties.Resources.resources
+C:\Users\ahmet\source\repos\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.exe
+C:\Users\ahmet\source\repos\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.pdb
+C:\Users\Tey\Documents\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.exe.config
+C:\Users\Tey\Documents\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.exe
+C:\Users\Tey\Documents\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.pdb
+C:\Users\Tey\Documents\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.AssemblyReference.cache
+C:\Users\Tey\Documents\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tey\Documents\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Form1.resources
+C:\Users\Tey\Documents\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Properties.Resources.resources
+C:\Users\Tey\Documents\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.GenerateResource.cache
+C:\Users\Tey\Documents\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Tey\Documents\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.exe
+C:\Users\Tey\Documents\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.pdb
+C:\Users\MSI\Downloads\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.exe.config
+C:\Users\MSI\Downloads\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.exe
+C:\Users\MSI\Downloads\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.pdb
+C:\Users\MSI\Downloads\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\Downloads\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Form1.resources
+C:\Users\MSI\Downloads\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Properties.Resources.resources
+C:\Users\MSI\Downloads\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.GenerateResource.cache
+C:\Users\MSI\Downloads\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.exe
+C:\Users\MSI\Downloads\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.pdb
+D:\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.exe.config
+D:\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.exe
+D:\Adam Asmaca Oyunu\Adam Asmaca Oyunu\bin\Debug\Adam Asmaca Oyunu.pdb
+D:\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.AssemblyReference.cache
+D:\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.SuggestedBindingRedirects.cache
+D:\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Form1.resources
+D:\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam_Asmaca_Oyunu.Properties.Resources.resources
+D:\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.GenerateResource.cache
+D:\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.csproj.CoreCompileInputs.cache
+D:\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.exe
+D:\Adam Asmaca Oyunu\Adam Asmaca Oyunu\obj\Debug\Adam Asmaca Oyunu.pdb
